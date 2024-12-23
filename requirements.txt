@@ -1,0 +1,13 @@
+numpy==1.24.0             # Numerical operations for training and model evaluation
+torch==1.13.0             # PyTorch for neural network implementation
+torchvision==0.14.0       # Image transformations (if using image data)
+matplotlib==3.6.2         # Plotting and visualizations
+pandas==1.5.3             # Data manipulation and storage
+scikit-learn==1.1.2       # Machine learning tools (e.g., for model evaluation)
+opencv-python==4.6.0.66   # For handling image and video inputs
+tensorboard==2.12.0       # For visualization of model training progress
+onnx==1.13.1              # For optimizing models with ONNX
+miDaS==1.0.0              # For generating depth maps (if using the MiDaS algorithm)
+gym==0.26.2               # For reinforcement learning environments
+pygame==2.1.2             # For game-like environment rendering (if needed)
+airsim==1.5.0             # For interfacing with the AirSim simulation environment
