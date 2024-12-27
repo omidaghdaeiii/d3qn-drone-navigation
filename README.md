@@ -131,7 +131,7 @@ A collection of utility functions for preprocessing and analysis:
 ## Project Structure  
 
 ```
-your-repo-name/  
+d3qn-drone-navigation/  
 ├── agent.py                # D3QN Agent Implementation  
 ├── main.py                 # Main Script for Training and Testing  
 ├── network.py              # Neural Network Architectures  
